@@ -11,7 +11,7 @@ This image also disposes of the walletgenerator.net repository for airgapped Cry
 # How to use?
 If you're on Linux (and you should), you can use Popsicle or other utilities to make a bootable flash drive.
 
-  - Download: [todo: place the download link here]
+  - Download: [ISO](https://drive.google.com/file/d/166SKabec8efgMazuyOwIyEiRcs6jkRs9/view?usp=sharing) - [MD5 Check](https://drive.google.com/file/d/1TBulCD54cQgiYfoVwXcW6-VnIJiWbAVz/view?usp=sharing)
   - Make a bootable drive
   - Disconnect any network from your computer
   - Boot
