@@ -21,6 +21,7 @@ If you're on Linux (and you should), you can use Popsicle or other utilities to 
 If you're dependent on Windows, you can use Universal USB Installer or YUMI to generate a bootable USB drive.
 
 https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
+
 https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
 
 # How was this created?
